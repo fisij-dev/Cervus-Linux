@@ -3,7 +3,7 @@ An Ubuntu-based distribution. This was created purely as an experiment, so don't
 
 Cervus Linux is an experimental Linux distribution based on Ubuntu.
 
-     Project status: Pre-Alpha / In active development.
+*Project status: Pre-Alpha / In active development.*
 
 # 📖 About
 
@@ -21,7 +21,7 @@ We want to practically explore the process of building a distribution, configuri
 Please don't judge us too harshly!
 This is our first experience in creating a distribution. Right now, there might be no code, ready-made ISO images, or instructions here. The project will evolve gradually, through trial and error. We will be very glad for any support, advice, and constructive criticism from the community!
 
-    Cervus Linux is not affiliated with Canonical Ltd. Ubuntu is a registered trademark of Canonical Ltd.
+*Cervus Linux is not affiliated with Canonical Ltd. Ubuntu is a registered trademark of Canonical Ltd.*
     
 # 🗣️ Pronunciation / Произношение
 
